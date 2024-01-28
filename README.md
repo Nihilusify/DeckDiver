@@ -1,38 +1,13 @@
-# create-svelte
+# Deck Diver: 
+#### Dive into Endless Card Game Fun!
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Deck Diver is a flexible card game framework built with SvelteKit and hosted on Firebase. Dive into classic games like Solitaire and Go Fish, or create your own custom game modes with limitless possibilities.
 
-## Creating a project
+## Key Features:
 
-If you're seeing this, you've probably already done this step. Congrats!
+- Playable out of the box: Dive straight into familiar favorites like Solitaire and Go Fish.
+- Infinitely customizable: Craft your own game rules, decks, and scoring systems.
+- SvelteKit powered: Enjoy a smooth and dynamic user interface built with a modern framework.
+- Firebase integration: Track high scores and share with friends
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Deck Diver is just the beginning of your card game adventure. Grab your deck, shuffle the possibilities, and let the games begin!
